@@ -80,7 +80,3 @@ GreyNoise has made the barrier to entry practically non-existent. For a one-time
 * Access to the community dataset, and much more.
 
 It is an unbeatable way to support the broader InfoSec community while gaining direct access to actionable, real-world threat intelligence.
-
----
-
-Thanks for taking the time ツ
